@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wwinslade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello! My name's William
+
+I'm studying Computer Engineering in a bachelor's program at The University of Tennessee, Knoxville
+
+I'm very interested in game design, data processing, server maintenance and network design.
 
 <!---
 wwinslade/wwinslade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
