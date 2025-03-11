@@ -1,7 +1,10 @@
 # wwinslade
-### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,cs)](https://skillicons.dev) \
-[![My Tools](https://skillicons.dev/icons?i=github,git,django,flask,docker,cloudflare)](https://skillicons.dev)
+Hi, I'm Will. I'm a senior computer science student as the University of Tennessee.
+
+### Languages
+[![Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,cs)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=django,flask,docker,cloudflare,github,git)](https://skillicons.dev)
 
 <hr>
 <div align="center">
